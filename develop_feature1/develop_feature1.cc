@@ -9,3 +9,6 @@ void FixSomeBug3() {}
 
 void HotFixSomeBug() {}
 void HotFixV100SomeBug() {}
+
+/**v1.1.0 add some function*/
+void AddV110SomeFunction() {}
