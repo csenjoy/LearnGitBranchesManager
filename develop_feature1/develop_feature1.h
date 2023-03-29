@@ -3,5 +3,5 @@
 */
 
 void FixSomeBug1() {}
-void FixSomeBug2() {}
-void FixSomeBug3() {}
+void FixSomeBug1() {}
+void FixSomeBug1() {}
