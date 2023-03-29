@@ -5,3 +5,5 @@
 void FixSomeBug1() {}
 void FixSomeBug2() {}
 void FixSomeBug3() {}
+
+void HotFixV100SomeBug() {}
